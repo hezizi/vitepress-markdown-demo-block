@@ -1,6 +1,6 @@
 {
   "name": "@yuci/vitepress-markdown-demo-block",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A Vitepress Markdown Plugin",
   "author": "yuci <yucihent@163.com>",
   "license": "MIT",
