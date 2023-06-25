@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "module": "ESNext",
+    "target": "ESNext",
+    "outDir": "lib",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    // "declarationDir": "lib/types",
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "moduleResolution": "Node",
+    "lib": ["DOM", "ESNext"]
+  },
+  "include": ["src/**/index.ts", "shim-vue.d.ts"]
+}

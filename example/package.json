@@ -1,0 +1,21 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "yuci <yucihent@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@arco-design/web-vue": "^2.47.1",
+    "lodash-es": "^4.17.21",
+    "vitepress": "1.0.0-beta.3",
+    "vitepress-markdown-demo-block": "^0.1.0"
+  }
+}

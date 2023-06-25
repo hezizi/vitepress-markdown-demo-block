@@ -1,0 +1,14 @@
+{
+  "exclude": [".*\\.d.ts$"],
+  "jsc": {
+    "parser": {
+      "syntax": "typescript",
+      "tsx": false
+    },
+    "target": "es2022"
+  },
+  "module": {
+    "type": "es6"
+  }
+  // "minify": true
+}
