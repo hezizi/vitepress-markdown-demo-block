@@ -1,16 +1,19 @@
 {
   "name": "@yuci/vitepress-markdown-demo-block",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A Vitepress Markdown Plugin",
   "author": "yuci <yucihent@163.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hezizi/vitepress-markdown-demo-block"
+    "url": "git+https://github.com/hezizi/vitepress-markdown-demo-block.git"
   },
   "homepage": "https://github.com/hezizi/vitepress-markdown-demo-block",
   "bugs": {
     "url": "https://github.com/hezizi/vitepress-markdown-demo-block/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "packageManager": "pnpm@8.6.3",
   "type": "module",
