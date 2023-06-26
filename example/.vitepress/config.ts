@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-import demoBlockPlugin from 'vitepress-markdown-demo-block'
+import demoBlockPlugin from '@yuci/vitepress-markdown-demo-block'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
